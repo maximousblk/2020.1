@@ -1,5 +1,5 @@
 # My personal website
 
-The right amount of minimal.
+The right amount of minimalism.
 
-<maximousblk.now.sh>
+[maximousblk.now.sh](https://maximousblk.now.sh)
